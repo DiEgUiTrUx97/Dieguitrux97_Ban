@@ -1,4 +1,4 @@
-# Dieguitrux97_Ban
+# dgtrx_ban
 
 Este script es una copia del /ban
 el cual lo he modificado para que este el comando /ban
